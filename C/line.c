@@ -1,5 +1,5 @@
 #include<stdio.h>
-#line 1 "otherline.c"
+#line 8 "otherline.c"
 void main()			//这是上面定义的第一行，从下一行开始 
 {
 	printf("%d",__LINE__);
